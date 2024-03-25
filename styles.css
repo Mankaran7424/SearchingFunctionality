@@ -1,0 +1,74 @@
+body .firstcontainer{
+    background-color: whitesmoke;
+}
+.firstcontainer{
+    background-color: whitesmoke;
+}
+ fieldset{
+    border: solid 1px black !important;
+    padding: 0 10px 10px 10px;
+    border-bottom: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+legend {
+    width: auto !important;
+    border: none;
+    font-size: 13px;
+    font-weight: 500 ;
+} 
+.searchbtn{
+    width: 23rem;
+    height: 2rem;
+    text-align: center;
+    border-radius: 22px;
+    background-image: linear-gradient( 91deg,  rgb(78, 179, 85) 5.2%, rgb(47, 111, 9) 95.9% );
+    border: none;
+    font-size: 12px;
+    font-weight: 600;
+}
+.searchbox{
+    border-radius: 25px;
+}
+.searchbox:hover{
+    border: 2px solid black;
+    background-color: rgb(232, 230, 230);
+}
+h6{
+    font-size: 13px;
+    font-weight: 600;
+}
+.prepaid{
+    width: 4.5rem;
+    height: 1.5rem;
+    background-color:rgb(77, 220, 86) ;
+    border: none;
+    border-radius: 0;
+    font-size: 13px;
+    font-weight: 600;
+    text-align: center;
+    color: black;
+
+
+}
+.buyerHeading{
+    text-decoration: underline;
+    font-weight: bold;
+}
+.trackbtn{
+    background-color: rgb(161, 157, 157);
+    width: 4.5rem;
+    height: 2rem;
+    border: none;
+    border-radius: 5px;
+    font-size: 13px;
+    text-align: center;
+    font-weight: bold;
+
+}
+.radiobtn{
+    font-weight: 500;
+    font-size: 15px;
+}
